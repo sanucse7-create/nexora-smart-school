@@ -5,8 +5,8 @@ import { toast } from "sonner";
 import { Glow, Reveal, SectionHeading } from "./primitives";
 
 const details = [
-  { icon: Mail, label: "Email", value: "hello@nexora.school" },
-  { icon: Phone, label: "Phone", value: "+91 80 4718 2200" },
+  { icon: Mail, label: "Email", value: "nexoradigicampus@gmail.com" },
+  { icon: Phone, label: "Phone", value: "+91 8099327033" },
   { icon: MapPin, label: "Location", value: "Prestige Tech Park, Bengaluru 560103" },
 ];
 
