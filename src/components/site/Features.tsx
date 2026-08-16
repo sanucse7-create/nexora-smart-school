@@ -61,6 +61,8 @@ const portals = [
       "Subject Wise Learning",
       "Multilingual Support",
       "Notice Board",
+      "AI Tutor",
+      "AI Mentor",
     ],
   },
 ];
