@@ -10,14 +10,14 @@ const floatingCards = [
     icon: Zap,
     title: "Attendance synced",
     detail: "Class 10A · 96.4% present",
-    position: "-left-6 top-24 sm:-left-12",
+    position: "-left-24 top-20 xl:-left-32",
     animation: "animate-float",
   },
   {
     icon: Sparkles,
     title: "AI report cards",
     detail: "312 generated in 4 seconds",
-    position: "-right-4 bottom-24 sm:-right-10",
+    position: "-right-24 bottom-20 xl:-right-32",
     animation: "animate-float-slow",
   },
 ];
