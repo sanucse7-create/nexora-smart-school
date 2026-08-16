@@ -7,8 +7,8 @@ import { Reveal, SectionHeading } from "./primitives";
 const plans = [
   {
     name: "Starter",
-    price: "₹39",
-    unit: "per student / month",
+    price: "₹0",
+    unit: "per institute / month",
     blurb: "For single-branch schools digitising their first academic year.",
     features: [
       "Admin, teacher and student portals",
@@ -22,8 +22,8 @@ const plans = [
   },
   {
     name: "Professional",
-    price: "₹69",
-    unit: "per student / month",
+    price: "₹299",
+    unit: "per institute / month",
     blurb: "For growing campuses that want AI doing the heavy lifting.",
     features: [
       "Everything in Starter",
