@@ -66,7 +66,7 @@ export function AiFeatures() {
               Intelligence built for <span className="text-gradient">every classroom</span>
             </>
           }
-          subtitle="Nexora's AI layer keeps expanding — shipping to every plan as it launches, at no extra cost."
+          subtitle="Nexora's AI layer keeps expanding — shipping to every plan as it launches."
         />
 
         <div className="mt-14 grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
