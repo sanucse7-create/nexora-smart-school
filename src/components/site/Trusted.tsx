@@ -10,8 +10,8 @@ const schools = [
 ];
 
 const stats = [
-  { value: 10000, suffix: "+", label: "Students learning daily" },
-  { value: 500, suffix: "+", label: "Teachers on Nexora" },
+  { value: 0, suffix: "", label: "" },
+  { value: 0, suffix: "", label: "" },
   { value: 99.9, suffix: "%", decimals: 1, label: "Platform uptime" },
 ];
 
